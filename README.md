@@ -45,7 +45,3 @@ python generate_ambient.py
 
 ## 🛠 Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
-
-## 📜 License
-KernelTone is open-source under the **MIT License**.
-
