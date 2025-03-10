@@ -1,4 +1,6 @@
 # KernelTone
+"The 🌌Universe is 🎶Music"
+
 
 ## 🎵 About KernelTone
 **KernelTone** is an AI-powered ambient music generator that transforms real-time system performance data into dynamic, evolving soundscapes. By integrating deep learning, granular synthesis, and system monitoring, KernelTone produces an ever-changing soundtrack that reflects the activity of your machine.
